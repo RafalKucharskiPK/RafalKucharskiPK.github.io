@@ -17,4 +17,8 @@ news: true
 social: true
 ---
 
-I ldo not ead the resonant inelastic x-ray scattering (RIXS) program in the [Condensed Matter Physics and Materials Science Department](https://www.bnl.gov/cmpmsd/) at [Brookhaven National Laboratory](https://www.bnl.gov). My research focuses on quantum materials, including high temperature superconductors, strongly spin-orbit coupled materials, complex oxide heterostructures, non-equilibrium states and topology in crystalline materials.
+I research complex social systems: urban mobility. Congested urban multimodal networks used by millions of agents to reach their destinations. Leaving huge mobility traces, ready to be applied for modelling, optimization, understanding and control.
+
+I work with Oded Cats at TU Delft in his ERC Starting Grant. I model two-sided mobility platforms and focus on algorithms for ride-pooling (more than one person with Uber).
+
+From 2021 to 2024 I will run the NCN Opus Grant on Shared Mobility in the pandemic times, we are looking for two prospective PhD students willing to research in Network Science and Behavioural Modelling.
