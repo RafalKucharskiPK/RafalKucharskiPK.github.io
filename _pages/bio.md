@@ -1,7 +1,7 @@
 ---
 layout: page
-title: activities
-permalink: /activities/
+title: bio
+permalink: /bio/
 description:
 order: 2
 ---
