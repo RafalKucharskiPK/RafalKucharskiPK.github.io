@@ -6,7 +6,7 @@ description: We are looking for new faces to support our exciting research
 order: 4
 ---
 
-{% for project in site.jobs %}
+{% for project in site.open %}
 
 {% if project.redirect %}
 <div class="project">
