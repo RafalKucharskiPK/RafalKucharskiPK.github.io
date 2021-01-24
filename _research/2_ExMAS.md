@@ -5,14 +5,12 @@ description: Exact algorithm for ride-pooling ExMAS
 img: /assets/img/map.png
 ---
 
-**3000 travelers can form 1.55 x 10^16 rides shared by four of them. For the case of Amsterdam, only 130 of them are attractive and 44 are actually chosen in optimal solution. How to deal with the complexity, combinatorial explosion?**
+**3000 travelers can form 1.55 x 10^16 rides shared by four of them. For the case of Amsterdam, only 130 of them are attractive and 44 are actually chosen in optimal solution. How to deal with the complexity, combinatorial explosion? See our efficient, behavioural algorithm applicable in realistic demand settings.**
 
 Research output in [Transportation Research Part:B](https://doi.org/10.1016/j.trb.2018.12.001) and on public github [repo](https://github.com/RafalKucharskiPK/ExMAS/tree/master/ExMAS) with *Oded Cats*
 
-see our [preprint](https://arxiv.org/abs/2011.12770) with Julian Sienkiewicz and Oded Cats (under review in _Scientific Reports_)
 
-
-<center><img src="{{ site.baseurl }}/assets/img/nw_1.png" height="331" width="554"></center>
+<center><img src="{{ site.baseurl }}/assets/img/nw_1.png"></center>
 <div class="col three caption">
     Figure 1: Shareability graph
 </div>

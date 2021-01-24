@@ -3,7 +3,7 @@ layout: page
 title: research
 permalink: /research/
 description: Featured research projects from last years
-order: 4
+order: 2
 ---
 
 {% for project in site.research %}

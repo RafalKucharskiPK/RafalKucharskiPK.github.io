@@ -3,7 +3,7 @@ layout: page
 title: bio
 permalink: /bio/
 description:
-order: 2
+order: 7
 ---
 
 ## Highlights
