@@ -1,3 +1,12 @@
+Compile:
+
+
+> bundle install --path /Users/rkucharski/Documents/GitHub/jekyll
+> ./bin/deploy
+
+
+
+
 # al-folio
 
 [![build status](https://travis-ci.org/alshedivat/al-folio.svg?branch=master)](https://travis-ci.org/alshedivat/al-folio)
