@@ -17,4 +17,3 @@ order: 7
 
 <h3 class="year">Scopus papers, proceedings, posters and others</h3>
 
-{% bibliography -f other %}
