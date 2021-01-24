@@ -28,8 +28,8 @@ In interdisciplinary field of _urban mobility_ I did research which can be class
 
 Outside of academia I was: 
 * Data Scientist at [NorthGravity](https://www.northgravity.com/about_us) developing AWS-based protfolio or real-time production ready ML solutions
-* R&D Developer at PTV SISTeMA implementing traffic flow algorithms into [PTV Optima](https://www.ptvgroup.com/en/solutions/products/ptv-optima/) real-time  traffic forecasting models.
-* Transport Modeller using travel-diaries to estimate demand models and create strategic planning tools, e.g. for [Warsaw](http://transport.um.warszawa.pl/warszawskie-badanie-ruchu-2015/model-ruchu) and [Kraków](http://knsk.org/2015/01/krakowski-model-ruchu-2014/)
+* R&D Developer at PTV SISTeMA implementing algorithms into [PTV Optima](https://www.ptvgroup.com/en/solutions/products/ptv-optima/) real-time  traffic forecasting models.
+* Transport Modeller at [Department of Transportation Systems](http://www.kst.pk.edu.pl/) using travel-diaries to estimate demand models and create strategic planning tools, e.g. for [Warsaw](http://transport.um.warszawa.pl/warszawskie-badanie-ruchu-2015/model-ruchu) and [Kraków](http://knsk.org/2015/01/krakowski-model-ruchu-2014/)
 
 From 2021 to 2024 I will run the *NCN Opus Grant* on Shared Mobility in the pandemic times, we are looking for two prospective PhD students willing to research in Network Science and Behavioural Modelling in Kraków, Poland.
 
