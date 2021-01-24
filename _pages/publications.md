@@ -16,3 +16,5 @@ order: 7
 {% endfor %}
 
 <h3 class="year">Scopus papers, proceedings, posters and others</h3>
+
+{% bibliography -f other %}
