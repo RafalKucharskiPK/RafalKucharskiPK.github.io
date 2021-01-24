@@ -9,7 +9,7 @@ img: /assets/img/ICM.png
 
 Stream of papers with _Guido Gentile (La Sapienza)_ after wonderful years of cooperation with _PTV SISTeMA_ team in Rome during my PhD, summarized with this [paper](https://doi.org/10.1016/j.trb.2018.12.001) summed up with [this](https://www.iamigniting.com/rafal_kucharski/) nice coverage 
 
-<center><img src="{{ site.baseurl }}/assets/img/ICM_2.png"></center>
+<center><img src="{{ site.baseurl }}/assets/img/ICM.png"></center>
 <div class="col three caption">
     Figure 1: 
 </div>
