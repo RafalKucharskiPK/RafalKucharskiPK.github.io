@@ -7,7 +7,6 @@ years: [2020, 2019, 2017]
 order: 7
 ---
 
-Selected IF papers and pre-prints (submitted) only, for full list pleasee see my scholar.
 
 <h3 class="year">Preprints</h3>
 {% bibliography -f preprints %}
@@ -17,5 +16,5 @@ Selected IF papers and pre-prints (submitted) only, for full list pleasee see my
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
-
+Selected IF papers and pre-prints (submitted) only, for full list pleasee see my scholar.
 
