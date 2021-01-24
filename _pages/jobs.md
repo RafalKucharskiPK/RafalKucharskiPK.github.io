@@ -6,7 +6,7 @@ description: We are looking for new faces to support our exciting research
 order: 4
 ---
 
-We have two 3-year PhD positions funded by NCN under OPUS granted [project](https://www.ncn.gov.pl/sites/default/files/listy-rankingowe/2020-03-16pfoa/streszczenia/480109-en.pdf) with competitive salary.
+We have two 3-year PhD positions funded by NCN under OPUS granted [project](https://www.ncn.gov.pl/sites/default/files/listy-rankingowe/2020-03-16pfoa/streszczenia/480109-en.pdf) with competitive salary, ideally starting from Aug 2021.
 
 Both interdisciplinary, originating from transport systems but directed towards number of exciting fields.
 
