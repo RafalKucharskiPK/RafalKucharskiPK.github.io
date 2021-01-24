@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CDWs
-description: Exact ride-pooling algorithm ExMAS
+title: ExMAS
+description: Exact algorithm for ride-pooling ExMAS
 img: /assets/img/map.png
 ---
 
