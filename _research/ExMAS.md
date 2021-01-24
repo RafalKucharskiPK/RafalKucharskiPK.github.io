@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CDWs
-description: Charge density waves
+description: Exact ride-pooling algorithm ExMAS
 img: /assets/img/cdw.png
 ---
 
