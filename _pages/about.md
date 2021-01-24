@@ -19,9 +19,12 @@ social: true
 
 I research complex social systems: urban mobility. Congested, urban multimodal networks used by millions of agents to reach their destinations and leaving huge sets of mobility traces ready to be applied for modelling, optimization, understanding and control.
 
-I work with Oded Cats at TU Delft in his ERC Starting Grant. I model two-sided mobility platforms and focus on algorithms for ride-pooling (more than one person with Uber).
+I work with Oded Cats at TU Delft in his ERC Starting Grant. I model two-sided mobility platforms and focus on algorithms for ride-pooling (more than one person with Uber). See my bio, featured research and publications on this website.
 
-See my bio, featured research and publications on this website.
+Outside of academia I was: 
+* Data Scientist at [NorthGravity](https://www.northgravity.com/about_us) developing AWS-based protfolio or real-time production ready ML solutions
+* R&D Developer at PTV SISTeMA implementing traffic flow algorithms into real-time DTA models of big cities (Torino, London, Doha, etc.)
+* Transport Modeller using travel-diaries to estimate demand models and create strategic planning tools for [Warsaw](http://transport.um.warszawa.pl/warszawskie-badanie-ruchu-2015/model-ruchu) and [Kraków](http://knsk.org/2015/01/krakowski-model-ruchu-2014/)
 
 From 2021 to 2024 I will run the NCN Opus Grant on Shared Mobility in the pandemic times, we are looking for two prospective PhD students willing to research in Network Science and Behavioural Modelling.
 
