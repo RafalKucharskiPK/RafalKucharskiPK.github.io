@@ -17,11 +17,15 @@ news: true
 social: true
 ---
 
-I research complex social systems: urban mobility. Congested, urban multimodal networks used by millions of agents to reach their destinations and leaving huge sets of mobility traces ready to be applied for modelling, optimization, understanding and control.
-In this interdisciplinary field I did research which can be classified as: agent-based simulation, model estimation, spatial analysis, game-theory, network science, machine learning, optimization, behavioural modelling, data analysis, pattern recognition, unsupervised learning, stochastic simulation, epidemic modelling, economic discrete choice models, network design, system control, etc.
+I research complex social systems: *urban mobility*. Congested, urban multimodal networks used by millions of agents to reach their destinations and leaving huge sets of mobility traces ready to be applied for modelling, optimization, understanding and control. I work with Oded Cats at TU Delft in his ERC Starting Grant. I model two-sided mobility platforms and focus on algorithms for ride-pooling (more than one person with Uber). I did PhD with Guido Gentile in dynamic traffic assignment.
 
-I work with Oded Cats at TU Delft in his ERC Starting Grant. I model two-sided mobility platforms and focus on algorithms for ride-pooling (more than one person with Uber). 
- 
+In this interdisciplinary field I did research which can be classified as: 
+* model estimation, optimization, system control, network design;
+* spatial analysis, data analysis, pattern recognition,
+* agent-based simulation, game-theory, network science, stochastic simulation, epidemic modelling,
+* machine learning, unsupervised learning, 
+* behavioural modelling, economic discrete choice models, policy, sustainability.
+
 
 Outside of academia I was: 
 * Data Scientist at [NorthGravity](https://www.northgravity.com/about_us) developing AWS-based protfolio or real-time production ready ML solutions
