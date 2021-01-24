@@ -2,6 +2,7 @@ Compile:
 
 
 > bundle install --path /Users/rkucharski/Documents/GitHub/jekyll
+>
 > ./bin/deploy
 
 
