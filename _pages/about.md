@@ -19,7 +19,7 @@ social: true
 
 I research complex social systems: **urban mobility**. Congested, urban multimodal networks used by millions of agents to reach their destinations and leaving huge sets of mobility traces ready to be applied for modelling, optimization, understanding and control. 
 
-I work with Oded Cats at TU Delft in his ERC Starting Grant. I model two-sided mobility platforms and focus on algorithms for ride-pooling (more than one person with Uber). I did PhD with Guido Gentile in non-equilibrium dynamic traffic assignment. In the interdisciplinary field of _urban mobility_ I did research which can be classified as: 
+I work with Oded Cats at TU Delft in his ERC Starting Grant [Critical MaaS](http://smartptlab.tudelft.nl/projects/criticalmaas). I model two-sided mobility platforms, specifcally focusing on ride-pooling (making people share their Uber with co-travellers). I did PhD with Guido Gentile in non-equilibrium dynamic traffic assignment. In the interdisciplinary field of _urban mobility_ I did research which can be classified as: 
 * model estimation, optimization, system control, network design;
 * agent-based simulation, game-theory, network science, stochastic simulation, epidemic modelling;
 * machine learning, spatial analysis, big data analysis, pattern recognition, unsupervised learning;
