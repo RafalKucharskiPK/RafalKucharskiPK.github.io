@@ -12,6 +12,8 @@ order: 2
 
 * Major contributor to [PTV Add-in Marketplace](https://www.ptvgroup.com/en/contact-support/add-in-marketplace/) - add-on algorithms for leading transportation modelling software providor
 
+* Story about my PhD and cooperation with PTV and La Sapienza in this nice [article](https://www.iamigniting.com/rafal_kucharski/)
+
 
 
 
