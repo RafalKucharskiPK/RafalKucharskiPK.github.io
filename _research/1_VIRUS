@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Magnetism
-description: Magnetic excitations and interactions
+title: Spreading
+description: Modelling virus spreading in ride-pooling networks
 img: /assets/img/spins.png
 ---
 
-We are interested in the nature of magnetism in correlated materials such as complex oxides and how it relates to emergent phenomena such as high-temperature superconductivity. Our tool of choice for this is resonant inelastic x-ray scattering (RIXS), as illustrated in Fig. 1, in which a x-ray core hole resonance is used to couple x-rays to magnetism in order to measure collective magnetic excitations.  
+  
 
 
 <div class="img_row">
