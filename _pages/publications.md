@@ -2,8 +2,8 @@
 layout: page
 permalink: /publications/
 title: publications
-description: My publications in reverse chronological order with highlights in <strong>bold</strong>.
-years: [2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2006]
+description: Publications in reverse chronological order starting with pre-prints.
+years: [2020, 2019, 2017]
 order: 7
 ---
 
@@ -14,3 +14,5 @@ order: 7
   <h3 class="year">{{y}}</h3>
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
+
+<h3 class="year">Scopus papers, proceedings, posters and others</h3>
