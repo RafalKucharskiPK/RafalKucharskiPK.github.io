@@ -23,4 +23,10 @@ MaaSSim is an agent-based simulator, reproducing the dynamics of two-sided mobil
 All of above behaviours are modelled through user-defined decision modules, by default deterministic, optionally probabilistic, representing agents' taste variations (heterogeneity), their previous experiences (learning) and available information (system control). Each simulation run results in two sets of outputs, one being the sequence of recorded space-time locations and statuses for simulated vehicles and the other for travellers. Further synthesised into agent-level and system-wide KPIs for in-depth analyses.
 
 
+<center><img src="{{ site.baseurl }}/assets/img/maassim.png"></center>
+<div class="col three caption">
+    Figure 1: 
+</div>
+
+
 
