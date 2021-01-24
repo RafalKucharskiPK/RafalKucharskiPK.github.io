@@ -5,7 +5,9 @@ description: Modelling virus spreading in ride-pooling networks
 img: /assets/img/virus.png
 ---
 
-  
+**Pooled travellers infect each others through a complex, dynamic contact network. We simulate this in context of demand mobility patterns in Amsterdam, trace epidemic outbreaks and identify effective control measures mitigating it**
+
+see our [preprint](https://arxiv.org/abs/2011.12770) with Julian Sienkiewicz and Oded Cats (under review in _Scientific Reports_)
 
 
 <div class="img_row">
