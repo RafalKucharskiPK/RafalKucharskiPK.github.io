@@ -12,18 +12,14 @@ footer_text: >
 
 url:  # the base hostname & protocol for your site
 baseurl:  # was /me previoulsy /al-folio # the subpath of your site, e.g. /blog/
-last_updated: # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
 github_username: rafalkucharskiPK # your GitHub user name
-#_QY twitter_username: # your Twitter handle
 linkedin_username: rafalkucharski # your LinkedIn user name
 scholar_userid: z3bOMUAAAAAJ # your Google Scholar ID
 orcid_id: 0000-0002-9767-8883 # your ORCID ID
-#_QY medium_username: # your Medium username
-#_QY quora_username: # your Quora username
 research_gate_profile: Rafal_Kucharski
 
 contact_note: >
@@ -97,7 +93,7 @@ plugins:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Dean
+  last_name: Kucharski
 
   style: american-physics-society
   locale: en
