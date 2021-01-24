@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-description: What we work on
+description: Featured research projects from last years
 order: 4
 ---
 
