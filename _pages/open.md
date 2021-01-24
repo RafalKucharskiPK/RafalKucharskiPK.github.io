@@ -1,7 +1,7 @@
 ---
 layout: page
 title: open positions
-permalink: /open positions/
+permalink: /open/
 description: We are looking for new faces to support our exciting research
 order: 4
 ---
