@@ -6,44 +6,40 @@ description: We are looking for new faces to support our exciting research
 order: 4
 ---
 
-{% for project in site.jobs %}
+We have two 3-year PhD positions funded by NCN under OPUS granted [project](https://www.ncn.gov.pl/sites/default/files/listy-rankingowe/2020-03-16pfoa/streszczenia/480109-en.pdf) with competitive salary.
 
-{% if project.redirect %}
-<div class="project">
-    <div class="thumbnail">
-        <a href="{{ project.redirect }}" target="_blank">
-        {% if project.img %}
-        <img class="thumbnail" src="{{ project.img | prepend: site.baseurl | prepend: site.url }}"/>
-        {% else %}
-        <div class="thumbnail blankbox"></div>
-        {% endif %}    
-        <span>
-            <h1>{{ project.title }}</h1>
-            <br/>
-            <p>{{ project.description }}</p>
-        </span>
-        </a>
-    </div>
-</div>
-{% else %}
+Both interdisciplinary, originating from transport systems but directed towards number of exciting fields.
 
-<div class="project ">
-    <div class="thumbnail">
-        <a href="{{ project.url | prepend: site.baseurl | prepend: site.url }}">
-        {% if project.img %}
-        <img class="thumbnail" src="{{ project.img | prepend: site.baseurl | prepend: site.url }}"/>
-        {% else %}
-        <div class="thumbnail blankbox"></div>
-        {% endif %}    
-        <span>
-            <h1>{{ project.title }}</h1>
-            <br/>
-            <p>{{ project.description }}</p>
-        </span>
-        </a>
-    </div>
-</div>
+* one will focus on Network-Science and will analyze contact networks of emerging urban mobility modes
+* another to reveal, observe, understand and model post-pandemic travel behaviour.
 
-{% endif %}
+---
 
-{% endfor %}
+# PhD Position 
+## Reveal, underatand and model post-pandemic travel behaviour towards emerging mobility models.
+
+You will study travellers behaviour in urban mobility (WP1). In the rapidly changing landscape of urban mobility, you shall aim to track the emerging trends, identify dynamics in behaviour to precisely define market shares and target groups for future shared mobility. In the abundance of recent, corona-related research in mobility, you shall synthesize the latest theories, studies and findings to underpin our shared-mobility models. 
+You shall conduct behavioural studies. Both revealed and stated preference studies to quantify and describe the mobility behaviour. 
+Three pillars of your PhD will be:
+1. You shall data-mine big datasets of mobility traces (ride-hailing trip records, smart-card public transport trips, etc.) to trace behaviour shifts.
+2. You shall conduct panel focus groups on target groups to understand stated-preferences for shared mobility. This will be further used to formulate, estimate and calibrate behavioural models.
+3. You shall synthesize findings of WP2 to forecast the effects of control and design measure on behaviour and, reversely, to underpin control and design strategies from WP3 with travellers' preferences.
+
+As an ideal candidate, you should hold a Master Degree in Econometrics, Transportation or similar STEM field. You should have the basics of behavioural models and decision making processes (discrete choice models). Candidates with a background in mathematical modelling and transport demand models and transportation enthusiasts will be given a priority.
+Fluent reading and writing English is essential for this position. 
+
+---
+
+# PhD Position 
+## Contact networks of emerging urban mobility modes - modelling, design and simulation
+
+You will reconstruct and analyse contact networks emerging in ride-sharing systems (WP2). You will apply existing and develop new models to match mobility demand into shared-rides. You will employ epidemic models on the networks. You will apply behavioural findings from WP1 and translate it into network connectivity.  You will run multi-dimensional stochastic simulations of various network and demand settings to quantify and synthesize virus exposure in shared mobility. 
+In WP3 you will propose methods that will limit spreading and eventually halt it.
+
+We are looking for enthusiastic and motivated applicants with a background in networks and data. Open-minded applicants ready to apply their skill on the interdisciplinary ground (mobility, behaviour, epidemics, network science, data analytics) welcomed.
+The candidate should hold a STEM masters degree (preferably Computer Science, Mathematics, Physics or Engineering), shall have basic coding and data analysis skills. Fluent reading and writing English is essential for this position.
+
+---
+
+Please contact me via mail r.m.kucharski _at_ tudelft.nl for appliactions.
+
