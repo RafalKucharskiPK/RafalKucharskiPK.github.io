@@ -6,7 +6,7 @@ description: We are looking for new faces to support our exciting research
 order: 4
 ---
 
-We have two 3-year PhD positions funded by NCN under OPUS granted [project](https://www.ncn.gov.pl/sites/default/files/listy-rankingowe/2020-03-16pfoa/streszczenia/480109-en.pdf) with competitive salary, ideally starting from Aug 2021.
+We have two open-positions for PhD's funded by NCN OPUS [project](https://www.ncn.gov.pl/sites/default/files/listy-rankingowe/2020-03-16pfoa/streszczenia/480109-en.pdf) with competitive salary, ideally starting from Aug 2021.
 
 Both interdisciplinary, originating from transport systems but directed towards number of exciting fields.
 
@@ -15,8 +15,8 @@ Both interdisciplinary, originating from transport systems but directed towards 
 
 ---
 
-# PhD Position 
-## Reveal, underatand and model post-pandemic travel behaviour towards emerging mobility models.
+### PhD Position 
+*Reveal, underatand and model post-pandemic travel behaviour towards emerging mobility models.*
 
 You will study travellers behaviour in urban mobility (WP1). In the rapidly changing landscape of urban mobility, you shall aim to track the emerging trends, identify dynamics in behaviour to precisely define market shares and target groups for future shared mobility. In the abundance of recent, corona-related research in mobility, you shall synthesize the latest theories, studies and findings to underpin our shared-mobility models. 
 You shall conduct behavioural studies. Both revealed and stated preference studies to quantify and describe the mobility behaviour. 
@@ -30,8 +30,8 @@ Fluent reading and writing English is essential for this position.
 
 ---
 
-# PhD Position 
-## Contact networks of emerging urban mobility modes - modelling, design and simulation
+### PhD Position 
+*Contact networks of emerging urban mobility modes - modelling, design and simulation*
 
 You will reconstruct and analyse contact networks emerging in ride-sharing systems (WP2). You will apply existing and develop new models to match mobility demand into shared-rides. You will employ epidemic models on the networks. You will apply behavioural findings from WP1 and translate it into network connectivity.  You will run multi-dimensional stochastic simulations of various network and demand settings to quantify and synthesize virus exposure in shared mobility. 
 In WP3 you will propose methods that will limit spreading and eventually halt it.
