@@ -26,4 +26,4 @@ See my bio, featured research and publications on this website.
 From 2021 to 2024 I will run the NCN Opus Grant on Shared Mobility in the pandemic times, we are looking for two prospective PhD students willing to research in Network Science and Behavioural Modelling.
 
 
-<img src="assets/img/TU.jpg" alt="drawing" width="150"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/img//SPTL.png" alt="drawing" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/img/CM.png" alt="drawing" width="120"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/img/LOGO-ERC.jpg" alt="drawing" width="80"/>
+<img src="assets/img/TU.jpg" alt="drawing" width="150"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/img//SPTL.png" alt="drawing" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./assets/img/CM.png" alt="drawing" width="120"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/img/LOGO-ERC.jpg" alt="drawing" width="80"/>
