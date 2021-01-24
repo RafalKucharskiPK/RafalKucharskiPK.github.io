@@ -1,12 +1,12 @@
 ---
 layout: page
 title: open positions
-permalink: /open/
+permalink: /jobs/
 description: We are looking for new faces to support our exciting research
 order: 4
 ---
 
-{% for project in site.open %}
+{% for project in site.jobs %}
 
 {% if project.redirect %}
 <div class="project">
