@@ -2,12 +2,12 @@
 layout: page
 title: MaaSSim
 description: agent-based two-sided mobility platform simulator
-img: /assets/img/heterostructures.png
+img: /assets/img/maassim.png
 ---
 
 
 
-<center><img src="https://github.com/RafalKucharskiPK/MaaSSim/raw/master/data/MaaSSim_animation.gif" height="250" width="200"></center>
+<center><img src="https://github.com/RafalKucharskiPK/MaaSSim/raw/master/data/MaaSSim_animation.gif" height="300" width="500"></center>
 <div class="col three caption">
     Figure 1: Operations of MaaSSim.
 </div>
