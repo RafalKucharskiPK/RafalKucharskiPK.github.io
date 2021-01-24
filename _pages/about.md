@@ -1,8 +1,8 @@
 ---
 layout: about
 permalink: /
-title: <strong>Mark Dean </strong>
-description: Physicist, Brookhaven National Laboratory
+title: <strong>Rafał Kucharski </strong>
+description: PostDoc, TU Delft, Netherlands
 
 profile:
   align: right
