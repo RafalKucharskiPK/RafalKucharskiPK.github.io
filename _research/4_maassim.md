@@ -5,9 +5,13 @@ description: agent-based two-sided mobility platform simulator
 img: /assets/img/maassim.png
 ---
 
+**Agent-based two-sided mobility platform simulator - lightweight open-source scientific software. Designed to support research of four PhDs and several master students under Critical MaaS grant - stream of papers in preparation.**
+
+Preprint on [arxiv](https://arxiv.org/abs/2011.12827) (under review in _SoftwareX_) with public github [repo](https://github.com/RafalKucharskiPK/MaaSSim) with *Oded Cats*. 
 
 
-<center><img src="https://github.com/RafalKucharskiPK/MaaSSim/raw/master/data/MaaSSim_animation.gif" height="300" width="500"></center>
+
+<center><img src="https://github.com/RafalKucharskiPK/MaaSSim/raw/master/data/MaaSSim_animation.gif"></center>
 <div class="col three caption">
     Figure 1: Operations of MaaSSim.
 </div>
