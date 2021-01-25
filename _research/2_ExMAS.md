@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ExMAS
+title: optimization
 description: Exact algorithm for ride-pooling ExMAS
 img: /assets/img/map.png
 ---
