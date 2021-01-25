@@ -16,7 +16,7 @@ Those non-deterministic, non-linear, adaptive interactions take place in the com
 Seamless and sustainable transport systems are key to the high quality urban space, where citizens may reach their destinations and participate in activities at low cost, both internal (personal discomfort) and external (emmission, congestion and space degragadation).
 
 ---
-Lab will follow the idea of **4I**:
+Our lab will follow the idea of **4xI**:
 * will join core **international** transportation research community, through direct long-established links with leading labs in the field: TU Delft (ranked 1st outside of China in Shanghai's ranking), KTH Stockholm, TU Munich, University of Luxembourg, EPFL, DTU, La Sapienza.
 * being **interdisciplinary** spanning from psychology, social sciences, economy, through complex systems, network science up to machine learning, optimization, control.
 * **innovating** landscape of urban mobility by applying cutting-edge algorithms, technology and models to improve daily operations
