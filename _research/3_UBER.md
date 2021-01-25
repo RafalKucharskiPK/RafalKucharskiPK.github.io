@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Spatial big data analysis
-description: Uber versus PT in 6 cities
+title: big data
+description: Uber versus PT in 6 cities - spatial analyses
 img: /assets/img/HEXES_10_NYC_NJT_added_value_mean.png
 ---
 
