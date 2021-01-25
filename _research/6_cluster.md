@@ -2,7 +2,7 @@
 layout: page
 title: clustering
 description: Clustering spatiotemporal mobility data of NYC bikes.
-img: /assets/img/map.png
+img: /assets/img/vector_small.png
 ---
 
 **We collected data on millions of city bike trips from NYC and started thinking how to synthesize them. We came up with this idea of 'vector of movement' that aggregates mobility pattern into a single vector. With this we may now cluster big datasets into groups of similar patterns and provide more accurate mobility predictions (including weather)**
@@ -10,7 +10,7 @@ img: /assets/img/map.png
 Work initiated with a North Gravity for our AWS Data Science framework demo, followed with _Guido Cantelmo at TU Munich_, presented at _TRB 2020 (DC)_, _MATTS 2019 (Delft)_  and published in [TRR](https://journals.sagepub.com/doi/10.1177/0361198120932160)
 
 
-<center><img src="{{ site.baseurl }}/assets/img/vectors.png"></center>
+<center><img src="{{ site.baseurl }}/assets/img/vectors.jpeg"></center>
 <div class="col three caption">
     Figure 1: Poster from TRB
 </div>
