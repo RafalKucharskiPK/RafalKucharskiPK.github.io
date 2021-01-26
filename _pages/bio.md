@@ -6,6 +6,8 @@ description:
 order: 7
 ---
 
+[CV](/./assets/pdf/CV_eng.pdf)
+
 ## Highlights
 
 * Chair and local organizer [6th MT-ITS 2019 Kraków](https://github.com/RafalKucharskiPK/rafalkucharskiPK.github.io/edit/master/_pages/activities.md) - conference with 150 participants, 20+ countries, 100 presentations, 70 IEEE Xplore papers.
