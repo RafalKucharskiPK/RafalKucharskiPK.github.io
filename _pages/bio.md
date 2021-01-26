@@ -6,7 +6,7 @@ description:
 order: 7
 ---
 
-[CV](/./assets/pdf/CV_eng.pdf)
+please see my [CV](/./assets/pdf/CV_eng.pdf) for reference
 
 ## Highlights
 
