@@ -6,6 +6,14 @@ description: Research statement
 order: 7
 ---
 
+## DigiCity
+**DigiCity** is a part of DigiWorld - conrerstone of human activity, one of the last remaining marketplaces for physical interactions in the digitalized world. 
+However, to make this interaction efficient, sustainable and accesible we need to leverage on emerging technologies and innovations. 
+On the limited space, we need to find compromise between letting people and goods flow, creating liveable public spaces and reducing negative externalities.
+
+Digiworld introduces tools, datasets and technologies to navigate humans in the complex, dynamic urban landscape. To shape policies of decisionmakers enabling citizens to benefit from emerging technologies (autonomous vehicles, micromobility, platform revolution) and provide Mobility-as-a-Service where ML and AI algorithms use data and models to understand and control emerging complexities.
+
+### Environment - agent-based simulations of urban mobility
 Let's consider a two-sided market, where two kinds of agents (supply and demand) are orchestrated with an intermediate platform. Each agent has its individual behaviour and takes independent actions to achieve personal goals. 
 Travellers demand to travel, to reach their desired destinations at lowest perceived cost. 
 Providers offer their services to supply this demand, they maximise their profit while competing with quality and level-of-service.
