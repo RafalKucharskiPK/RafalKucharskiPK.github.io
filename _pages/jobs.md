@@ -41,5 +41,9 @@ The candidate should hold a STEM masters degree (preferably Computer Science, Ma
 
 ---
 
+The monthly salary is PLN 5 000 after taxation. Which is above national average and allows a good quality of life in Kraków, as living expenses in Poland are significantly low compared to Western-European. 
+
+
+
 Please contact me via mail r.m.kucharski _at_ tudelft.nl for appliactions.
 
